@@ -3,7 +3,7 @@
 # Change "moonrise" to your repository name
 url: "https://rioctos.github.io"
 baseurl: "/minecraft"
-siteIcon: /media/android-chrome-192x192.png
+siteIcon: /media/logo.png
 siteYear: 2023
 siteFooterlink: /about
 showinSearchEngines: true
