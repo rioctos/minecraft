@@ -9,7 +9,7 @@ Looking for vanilla survival server to play on? Come join us on Rioctos Minecraf
 [Website](https://minecraft.discord.com)
 
 Or simply join our discord server for more information.
-[Discord](https://minecraft.discord.com/discord)
+[Discord](https://discord.com/invite/HQ3xhXUMqp)
 
 
 # Privacy Policy
