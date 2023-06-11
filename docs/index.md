@@ -10,7 +10,7 @@ cellLinks:
 
   - cname: Server Status
     curl: status
-    cimage: media/demo02.jpg
+    cimage: media/status.jpg
 
   - cname: Screenshots
     curl: screenshots
@@ -18,5 +18,5 @@ cellLinks:
 
   - cname: Donate
     curl: donate
-    cimage: media/demo04.jpg
+    cimage: media/donate.jpg
 ---
