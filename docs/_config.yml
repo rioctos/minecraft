@@ -1,8 +1,8 @@
 # Set this website's info
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
-url: "https://rioctos.github.io"
-baseurl: "/minecraft"
+url: "minecraft.rioctos.com"
+baseurl: ""
 siteIcon: /media/Rioctos-mc_Logo.png
 siteYear: 2023
 siteFooterlink: /about
