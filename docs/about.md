@@ -5,14 +5,11 @@ navname: About
 
 # {{ site.serverName }}
 
-Moonrise is a simple, flexible template website for Minecraft servers.
+Looking for vanilla survival server to play on? Come join us on Rioctos Minecraft server!
+[Website](https://minecraft.discord.com)
 
-[GitHub](https://github.com/coffeebank/moonrise)
-
-
-# Terms of Use
-
-Moonrise MC is free for use [under the MIT license](https://github.com/coffeebank/moonrise).
+Or simply join our discord server for more information.
+[Discord](https://minecraft.discord.com/discord)
 
 
 # Privacy Policy
