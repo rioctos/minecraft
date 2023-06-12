@@ -2,7 +2,20 @@
 layout: default
 ---
 
-<!-- lead section -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Webpage</title>
+    <style>
+        body {
+            background-image: url("media/demo02.jpg");
+            background-size: cover;
+        }
+    </style>
+</head>
+<body>
+    <!-- lead section -->
 <div class="flex flex-wrap md:flex-row-reverse justify-center items-center text-center py-4">
     <div class="w-full lg:w-1/2">
         <h1 class="text-4xl text-gray-100 pt-12 lg:pt-0">{{ site.serverName }}</h1>
@@ -62,3 +75,8 @@ layout: default
 <script src="https://unpkg.com/clipboard@2/dist/clipboard.min.js"></script>
 <div id="snackbar" class="text-gray-100 bg-green-900 p-3 rounded shadow-xl">Copied!</div>
 <script type="text/javascript" src="{{ site.baseurl }}/assets/clipboard.js"></script>
+</body>
+</html>
+
+
+
